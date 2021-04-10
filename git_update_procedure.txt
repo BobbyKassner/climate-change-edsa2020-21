@@ -1,0 +1,4 @@
+cd "C:/Users/Bobby/Downloads/climate-change-edsa2020-21"
+git add.
+git commit -m 'commit message'
+git push
